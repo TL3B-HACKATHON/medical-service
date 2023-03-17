@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9rus1OizPeJri0Dy+ztFwy/D5BFuUuFZ2BBbgOZXlRQ=",
+  "Source": "medical-profile-service",
+  "BasePath": "_content/medical-profile-service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
